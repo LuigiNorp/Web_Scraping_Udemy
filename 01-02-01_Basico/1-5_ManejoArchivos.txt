@@ -4,3 +4,4 @@ Sandia,10,5
 Manzana,10,10
 Mango,5,5
 Durazno,5,10
+Durazno,5,10
