@@ -1,0 +1,65 @@
+description,id,question
+"
+            I have Thunk properly set up inside of my index.js file, but whenever I try to have a dispatch action as a function I get the error Error: Actions must be plain objects. Use custom middleware for ...
+        ",[1],"× Error: Actions must be plain objects. Use custom middleware for async actions, Thunk already set up"
+"
+            I am working on a Discord bot that works with MediaWiki wikis. I would like it to do two things: load a webpage and then grab some of the variables from it.
+I am using JSDOM and Node.js to attempt to ...
+        ",[1],Loading a MediaWiki webpage and then grabbing variables from it (node.js)
+"
+            So I was wondering what's the best approach to attach another DbContext to my ASP.NET app. I'm trying to achieve DbContext that I can use anywhere in my code not only in controllers. I tried to add it ...
+        ",[1],Best approach for adding another DbContext
+"
+            async def on_raw_reaction_add(payload):
+  print(""works"")
+  if payload.emoji == ""👍"":
+    print(""also works"")
+
+in my code, the ""print(works)"" statement prints, ...
+        ",[1],using the emoji in an if statement to see if the emoji the user reacted with is a specified one doesn't work
+"
+            I´m trying to use apache beam to write more than 1 file but I need to write filename for every file that I write.
+Firs I start searching for all files in the bucket.
+import argparse
+import ast
+import ...
+        ",[1],Add filename into bigquery with Apache beam
+"
+            What I tried is:
+if self.path = ""/logout"":
+
+self.path = ""/home""
+
+Which clearly doesn't work.
+In the page I set <a href=""/logout""> for the Log out menu. I can make &...
+        ",[1],I want to append “/home” to the root url when self.path is “/logout”
+"
+            My index file is in PHP and has a div in which I would like to add an element. The reason why I don't just add to the text with JQuery is because in my case I need to do something like this in my text....
+        ",[1],Adding HTML Element from Javascript becomes commented out in the end
+"
+            Recently, I've updated my graphic drivers for a new system I built, a mix between an amd apu and an nvidia quadro. But I stumbled upon a rare problem, every time I tried to use OpenCl acceleration on ...
+        ",[1],How to disable switchable graphics on ffmpeg
+"
+            I have a form that the date adjust to always show date always two weeks in advanced and according to the schedule. My problem is that I cannot get the form to validate. I'm pretty sure it's because I ...
+        ",[1],Django custom form doesn't validate
+"
+            I do see a similar question here: ninja appends its default installation path to my DESTDIR
+But this time the problem is I am not using meson. I am working with cmake for c++ project,
+I used to use:
+$(...
+        ",[1],how to use DESTDIR for ninja build with c++
+"
+            When creating a AAD application, we are able to create client secrets for the application. So I understand the client secrets are for the application. As a contrast, we can also create many service ...
+        ",[1],differences between aad application password and service principal password
+"
+            I have been having issues getting Apache POI to work in a JavaFX application, I am developing. I am using Maven to import the Apache poi and poi-ooxml jars. I've made a near-empty application that ...
+        ",[1],Apache POI not working in a modularised Java project caused by java.lang.IllegalAccessError: superclass access check failed
+"
+            Similar to the ./Fabric directory (on an Android device) that would contain event logs, is there an analogous directory when it comes to Firebase's Analytics? For example, if we call firebaseAnalytics....
+        ",[1],Where is the location of Firebase Analytics and Performance logs found on mobile devices?
+"
+            I'm trying to create a custom pytorch dataset to plug into DataLoader that is composed of single-channel images (20000 x 1 x 28 x 28), single-channel masks (20000 x 1 x 28 x 28), and three labels (...
+        ",[1],How to Create a Custom Pytorch Dataset with Multiple Labels and Masks?
+"
+            I am looking to create a stream that holds objects that I instantiate within that stream. I'm very new to streams so I'm not sure how to take an object with multiple array parameters and instantiate ...
+        ",[1],Create a stream that combines items from parallel arrays
