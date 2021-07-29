@@ -1,0 +1,1 @@
+https://likegeeks.com/es/rastreador-web-usando-scrapy/#Tuberia_de_elementos
